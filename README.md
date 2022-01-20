@@ -1,7 +1,7 @@
 # W205 (Data Engineering) 
 Project 1: Query Project
 
-- In the Query Project, I practiced writing SQL quiries while learning about
+- In this Query Project, I practiced writing SQL quiries while learning about
   Google Cloud Platform (GCP) and BiqQuery. Given the problem statement below, I answered key business-driven
   questions using public datasets housed in GCP. All the work was performed using the web UI (BiqQuery) and
   the command-line tools, and worked them into Jupyter file (Report.ipynb).
