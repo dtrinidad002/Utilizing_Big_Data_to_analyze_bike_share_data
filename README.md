@@ -31,7 +31,7 @@ Through My own exploratory data analysis (EDA) I answered the following question
 
 - Likewise to make my recommendations, I needed to do data exploration, cleaning or filtering dirty data, etc. to come up with the final queries that will give you the supporting data for your recommendations. 
 
--The final report.ipynb also demonstrates the use of Pandas, and Matplotlib libraries. 
+### Full Details on the final Report.ipynb file
 
 ---
 
