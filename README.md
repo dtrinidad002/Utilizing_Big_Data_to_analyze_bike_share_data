@@ -6,7 +6,7 @@ Project 1: Query Project
   questions using public datasets housed in GCP. All the work was performed using the web UI (BiqQuery) and
   the command-line tools, and worked them into Jupyter file (Report.ipynb).
 
-#### Problem Statement
+### Problem Statement
 
 - You're a data scientist at Lyft Bay Wheels (https://www.lyft.com/bikes/bay-wheels), formerly known as Ford GoBike, the
   company running Bay Area Bikeshare. You are trying to increase ridership, and
@@ -35,7 +35,7 @@ Through My own exploratory data analysis (EDA) I answered the following question
 
 ---
 
-## Data
+### Data
 
 - (BigQuery tables used) **san_francisco** :
 
