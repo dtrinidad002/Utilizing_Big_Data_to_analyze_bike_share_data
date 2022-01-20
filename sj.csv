@@ -1,0 +1,12 @@
++------------------+------------------------------+-----------------+-------+
+| start_station_id |      start_station_name      | subscriber_type | total |
++------------------+------------------------------+-----------------+-------+
+|               88 | 5th St at E. San Salvador St | Subscriber      |     1 |
+|               88 | 5th S at E. San Salvador St  | Customer        |     6 |
+|               26 | Kaiser Hospital              | Customer        |     7 |
+|               21 | Sequoia Hospital             | Subscriber      |     7 |
+|               21 | Sequoia Hospital             | Customer        |     8 |
+|               80 | San Jose Government Center   | Customer        |    11 |
+|               80 | San Jose Government Center   | Subscriber      |    12 |
+|               88 | 5th S at E. San Salvador St  | Subscriber      |    13 |
++------------------+------------------------------+-----------------+-------+
